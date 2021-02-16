@@ -1,0 +1,3 @@
+﻿  chap5-function01.c
+C:\Users\User\Desktop\workspace\do it solution\chap5-function\chap5-function01.c(12,8): error C2198: 'printf': 호출에 인수가 너무 적습니다.
+C:\Users\User\Desktop\workspace\do it solution\chap5-function\chap5-function01.c(19,8): error C2198: 'printf': 호출에 인수가 너무 적습니다.
